@@ -26,7 +26,7 @@
 ---
 
 <details>
-  <summary>🚀 Déploiement de OVL-MD-V2</summary>
+  <summary>🚀 Déploiement de VARNOX-XMD-V2</summary>
 
 ### 🧬 Étape 1 : Fork du dépôt GitHub  
 [![Fork GitHub](https://img.shields.io/badge/Fork%20le%20Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ainz-devs/OVL-MD-V2/fork)
@@ -37,7 +37,7 @@
 
 📌 **Conserve la Session-ID dans un endroit sécurisé.** 
 
-[![Obtenir SESSION-ID](https://img.shields.io/badge/Obtenir%20SESSION--ID1-0A0A0A?style=for-the-badge&logo=key&logoColor=white)](https://premier-armadillo-ovl-02d9d108.koyeb.app/)  
+[![Obtenir SESSION-ID](https://img.shields.io/badge/Obtenir%20SESSION--ID1-0A0A0A?style=for-the-badge&logo=key&logoColor=white)](https://premier-armadillo-varnox-02d9d108.koyeb.app/)  
 [![Obtenir SESSION-ID](https://img.shields.io/badge/Obtenir%20SESSION--ID2-0A0A0A?style=for-the-badge&logo=key&logoColor=white)](https://ruling-alma-ahc-ec8ca560.koyeb.app/)  
 [![Obtenir SESSION-ID](https://img.shields.io/badge/Obtenir%20SESSION--ID3-0A0A0A?style=for-the-badge&logo=key&logoColor=white)](https://shivering-lizzy-fatao177-3ee3096c.koyeb.app/)
 
@@ -228,12 +228,13 @@ jobs:
 
 ```env
 PREFIXE=.
-NOM_OWNER=Ainz
-NUMERO_OWNER=226xxxxxxxx
+NOM_OWNER=VARK
+NUMERO_OWNER=224xxxxxxxx
 MODE=public
 SESSION_ID=
 STICKER_PACK_NAME=ᴏᴠʟ-ᴍᴅ-ᴠ𝟸
-STICKER_AUTHOR_NAME=ᴀɪɴᴢ🔅✨
+STICKER_AUTHOR_NAME=VARK🔅✨
+NOM_BOT=🤖𝛁𝚫𝚪𝚴𝚯𝚾-𝚾𝚳𝐃-𝛁2
 ```
 
 </details>
