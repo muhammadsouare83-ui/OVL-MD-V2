@@ -1,7 +1,7 @@
-<h1 align="center">OVL-MD-V2</h1>
+<h1 align="center">VARNOX-XMD-V2</h1>
 
 <p align="center">
-    <img alt="OVL" src="https://files.catbox.moe/gxcb9p.jpg">
+    <img alt="VARNOX" src="https://files.catbox.moe/z0uaow.jpg">
 </p>
 
 <p align="center">
@@ -191,7 +191,7 @@ launchApp();
   <summary>⚙️ Fichier .github/workflows/deploy.yml</summary>
 
 ```yaml
-name: OVL-MD Bot CI
+name: VARNOX-XMD Bot CI
 
 on:
   push:
@@ -251,7 +251,7 @@ Partage, pose tes questions, et reste à jour avec toutes les nouveautés du pro
 ---
 
 ### 👨‍💻 Développeur Principal
-- **Ainz**
+- **𝚳𝚪|𝚴𝚯𝛁𝚫𝚪𝐊 𝚯𝚪 𝛁𝚫𝚪𝚴𝚯𝚾**
 ---
 ### 🙌 Remerciements
 - Haibo_lugh – pour son soutien et aide dans la gestion du bot au support.
