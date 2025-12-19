@@ -241,11 +241,11 @@ NOM_BOT=🤖𝛁𝚫𝚪𝚴𝚯𝚾-𝚾𝚳𝐃-𝛁2
 
 ---
 
-### 🌍 Rejoins la Communauté OVL
+### 🌍 Rejoins la Communauté VARNOX
 
-[![WhatsApp Support](https://img.shields.io/badge/Support%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HzhikAmOuYhFXGLmcyMo62)
-[![Telegram Channel](https://img.shields.io/badge/Canal%20Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ovlmd_tlg)
-[![WhatsApp Channel](https://img.shields.io/badge/Channel%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VayTmvxHltYGCm0J7P0A)
+[![WhatsApp Support](https://img.shields.io/badge/Support%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FZVJqLJ9QItBg7jBBMbYsK)
+[![Telegram Channel](https://img.shields.io/badge/Canal%20Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](Wa.me/+224661140736)
+[![WhatsApp Channel](https://chat.whatsapp.com/FZVJqLJ9QItBg7jBBMbYsK)](https://whatsapp.com/channel/0029Vb79ZHxKAwEg251Ghu22)
 
 Partage, pose tes questions, et reste à jour avec toutes les nouveautés du projet !
 
